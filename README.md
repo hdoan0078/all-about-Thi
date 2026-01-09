@@ -1,7 +1,7 @@
 
 # Thi Doan — Resume
 
-This repository contains the professional resume of **Thi Doan**, a Business Analytics and Artificial Intelligence undergraduate with hands-on experience in data analysis, operations analytics, and business intelligence.
+
 
 ## 📄 Overview
 
